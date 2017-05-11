@@ -1,0 +1,1 @@
+Helpfile that should contain Frequently Asked Questions and answers.
