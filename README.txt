@@ -1,0 +1,1 @@
+This repository contains files produced as practical work during the class' activity.
